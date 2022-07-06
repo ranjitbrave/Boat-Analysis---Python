@@ -7,3 +7,6 @@ Analysis of an online boat rental company
 ### Does Year of the boat determine price? 
 
 ### Do the most expensive boats get the most views? 
+
+### [Tableau link](https://public.tableau.com/app/profile/ranjit7518/viz/RockbusterAnalysis-Ranjit/Topcountries?publish=yes)
+### [Datasource](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales)
